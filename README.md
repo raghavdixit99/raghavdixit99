@@ -1,5 +1,7 @@
 <!-- Replace "raghavdixit99" everywhere with your actual username -->
 
+![](https://komarev.com/ghpvc/?username=raghavdixit99&color=green)
+
 # Hey, I'm Raghav! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 **A passionate ML Engineer with 3+ years of experience deploying large-scale AI solutions.**  
