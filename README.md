@@ -46,12 +46,3 @@
 </div>
 
 ---
-
-## Contact
-
-- **Email**: [dixitraghav99@gmail.com](mailto:dixitraghav99@gmail.com)
-- **LinkedIn**: [linkedin.com/in/raghav-dixit](https://linkedin.com/in/raghav-dixit)
-- **Website**: [raghav-dixit.com](https://raghav-dixit.com/)
-- **Resume**: [Click Here](https://github.com/raghavdixit99/raghavdixit99/blob/main/Raghav_latest_resume_concise.pdf)
-
-*(Feel free to connect or reach out!)*
