@@ -22,7 +22,7 @@
 - **Glance, Inmobi**: Large-scale ML pipelines for 250M+ DAUs; built recommendation engines & GNN-based solutions.
 - **MultiModal RAG**: Created a multi-modal solution using GPT-4V, LlamaIndex, and LanceDB for advanced video analysis.
 
-*(For more details, check out my [resume](https://github.com/raghavdixit99/raghavdixit99/blob/main/Raghav_latest_resume_concise.pdf) or pinned projects!)*
+*(For more details, check out my [resume](https://github.com/raghavdixit99/raghavdixit99/blob/main/Raghav_latest_resume_full.pdf) or pinned projects!)*
 
 ---
 
