@@ -8,8 +8,8 @@
 - ⚡ **Currently**: Founding AI Engineer at [Entelligence.ai](https://entelligence.ai)
 - 🎓 **Master's in Data Science** at Rutgers University
 - 🏫 **Previously**: AI Engineer at [LanceDB (YC 22)](https://github.com/lancedb)
-- 💬 **Ask me about**: NLP, LLMs, vector databases, or scaling AI pipelines
-- 🌱 **Learning**: Advanced RL, multi-agent systems, and high-performance AI microservices
+- 💬 **Ask me about**: NLP, LLMs, multi-agent systems, vector databases, or scaling AI pipelines
+- 🌱 **Exploring**: Advanced RL and its intersection in agentic AI
 - 📫 **Reach me**: [Email](mailto:dixitraghav99@gmail.com) | [LinkedIn](https://linkedin.com/in/raghav-dixit)
 - 🌐 **Website**: [raghav-dixit.com](https://raghav-dixit.com/)
 
@@ -37,12 +37,9 @@
 
 ## GitHub Stats
 
-<div align="center">
-  
-[![Raghav’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=raghavdixit99&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raghavdixit99&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=raghavdixit99&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
+</p>
+</a>
 
 ---
