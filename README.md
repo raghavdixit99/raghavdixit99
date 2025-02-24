@@ -2,8 +2,8 @@
 
 # Hey, I'm Raghav! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-**I build and maintain a bunch of AI and Web projects.**  
-*(Full-Stack ML Engineer | MLOps | Generative AI | Web Dev)*
+**A passionate ML Engineer with 3+ years of experience deploying large-scale AI solutions.**  
+*(Full-Stack ML | MLOps | Generative AI | Web Dev)*
 
 - ⚡ **Currently**: Founding AI Engineer at [Entelligence.ai](https://entelligence.ai)
 - 🎓 **Master's in Data Science** at Rutgers University
