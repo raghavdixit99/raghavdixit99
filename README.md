@@ -33,7 +33,7 @@
 - **Languages**: Python, C++, JS/TS, Rust
 - **AI/ML**: PyTorch, TensorFlow, LangChain, LlamaIndex, RL, GNNs
 - **Cloud & DevOps**: AWS, Docker/K8s, GitHub Actions, MLflow
-- **Data Systems**: PySpark, Kafka, Airflow, SQL/NoSQL, Vector DBs (LanceDB, Pinecone)
+- **Data Systems**: PySpark, Kafka, Airflow, SQL/NoSQL, Vector DBs (LanceDB, Qdrant etc.)
 
 ---
 
