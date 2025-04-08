@@ -7,7 +7,6 @@
 **A passionate ML Engineer with 3+ years of experience deploying large-scale AI solutions.**  
 *(Full-Stack ML | MLOps | Generative AI | Web Dev)*
 
-- ⚡ **Currently**: Founding AI Engineer at [Entelligence.ai](https://entelligence.ai)
 - 🎓 **Master's in Data Science** at Rutgers University
 - 🏫 **Previously**: AI Engineer at [LanceDB (YC 22)](https://github.com/lancedb)
 - 💬 **Ask me about**: NLP, LLMs, multi-agent systems, vector databases, or scaling AI pipelines
