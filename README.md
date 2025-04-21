@@ -7,6 +7,8 @@
 **A passionate ML Engineer with 3+ years of experience deploying large-scale AI solutions.**  
 *(Full-Stack ML | MLOps | Generative AI | Web Dev)*
 
+Currently the first Sr AI engineer @ Air labs (https://air.inc/)
+
 - 🎓 **Master's in Data Science** at Rutgers University
 - 🏫 **Previously**: founding AI engineer (https://www.entelligence.ai/) and ML at [LanceDB (YC 22)](https://github.com/lancedb)
 - 💬 **Ask me about**: NLP, LLMs, multi-agent systems, vector databases, or scaling AI pipelines
