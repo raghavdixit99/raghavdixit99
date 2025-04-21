@@ -8,7 +8,7 @@
 *(Full-Stack ML | MLOps | Generative AI | Web Dev)*
 
 - 🎓 **Master's in Data Science** at Rutgers University
-- 🏫 **Previously**: AI Engineer at [LanceDB (YC 22)](https://github.com/lancedb)
+- 🏫 **Previously**: founding AI engineer (https://www.entelligence.ai/) and ML at [LanceDB (YC 22)](https://github.com/lancedb)
 - 💬 **Ask me about**: NLP, LLMs, multi-agent systems, vector databases, or scaling AI pipelines
 - 🌱 **Exploring**: Advanced RL and its intersection in agentic AI
 - 📫 **Reach me**: [Email](mailto:dixitraghav99@gmail.com) | [LinkedIn](https://linkedin.com/in/raghav-dixit)
