@@ -7,7 +7,7 @@
 **A passionate ML Engineer with 3+ years of experience deploying large-scale AI solutions.**  
 *(Full-Stack ML | MLOps | Generative AI | Web Dev)*
 
-Currently the first Sr AI engineer @ Air labs (https://air.inc/)
+Currently building something new, open to copnnect for interesting oppurtunities where I can contribute !
 
 - 🎓 **Master's in Data Science** at Rutgers University
 - 🏫 **Previously**: founding AI engineer (https://www.entelligence.ai/) and ML at [LanceDB (YC 22)](https://github.com/lancedb)
@@ -19,10 +19,10 @@ Currently the first Sr AI engineer @ Air labs (https://air.inc/)
 ---
 
 ## Experience
-
+- **[Air labs](https://air.inc/)**: First AI engineer(contract), helped build ML infra and multimodal search at scale.
 - **[Entelligence.ai](https://entelligence.ai)**: AI platform for codebase chat, automated code reviews, & more.
 - **[LanceDB](https://github.com/lancedb)**: Open-source AI database for vector search (YC ‘22).
-- **Glance, Inmobi**: Large-scale ML pipelines for 250M+ DAUs; built recommendation engines & GNN-based solutions.
+- **[Glance, Inmobi]()**: Large-scale ML pipelines for 250M+ DAUs; built recommendation engines & GNN-based solutions.
 
 *(For more details, check out my [resume](https://github.com/raghavdixit99/raghavdixit99/blob/main/Raghav_latest_resume_full.pdf) or pinned projects!)*
 
