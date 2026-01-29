@@ -19,9 +19,10 @@ Currently building something new, open to copnnect for interesting oppurtunities
 ---
 
 ## Experience
+- **[Tenex](https://www.tenex.co/)**: Applied AI Science/Engineering along with full stack work, solving some of the most complex problems for global clients(500M$-50B$+ revenue)
 - **[Air labs](https://air.inc/)**: First AI engineer(contract), helped build ML infra and multimodal search at scale.
-- **[Entelligence.ai](https://entelligence.ai)**: AI platform for codebase chat, automated code reviews, & more.
-- **[LanceDB](https://github.com/lancedb)**: Open-source AI database for vector search (YC ‘22).
+- **[Entelligence.ai](https://entelligence.ai)**: Founding AI engineer, built the AI platform for codebase chat, automated code reviews, & more. 
+- **[LanceDB](https://github.com/lancedb)**: Open-source AI database for vector search (YC ‘22). Worked as MLE and led open source integrations.
 - **[Glance, Inmobi]()**: Large-scale ML pipelines for 250M+ DAUs; built recommendation engines & GNN-based solutions.
 
 *(For more details, check out my [resume](https://github.com/raghavdixit99/raghavdixit99/blob/main/RaghavMLE_resume.pdf) or pinned projects!)*
